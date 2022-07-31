@@ -2,26 +2,14 @@
   
 <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-<!-- - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack](https://joseassis.com.br/)
+<!-- - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack] -->
 
-- 🌱 Atualmente estou me aperfeiçoando em **Java, Linux e Arduino**
+- 🌱 I'm currently perfecting myself in full stack web development, Git and C.
 
-- 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
+- 📝 I regularly post on:: [https://www.instagram.com/oparafusoquefaltava/](https://www.instagram.com/oparafusoquefaltava/)
 
-- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVER-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
+- ⚡ My hobby is studying mathematics, physics, music and literature.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/professorjosedeassis](https://github.com/professorjosedeassis)
-
-- 📝 Escrevo regularmente no site: [https://joseassis.com.br/](https://joseassis.com.br/)
-
-- 💬 Pergunte-me sobre **Java, Linux e Arduino**
-
-- 📫 Contato: **josedeassisfilho@gmail.com**
-
-- 📄 Sobre mim: [Professor José de Assis](https://www.linkedin.com/in/professorjosedeassis)
-
-- ⚡ Fato engraçado sobre mim: **Imito perfeitamente a buzina de um fusca**
--->
 ## My social networks
 
   <div>
