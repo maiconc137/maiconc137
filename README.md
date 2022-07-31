@@ -2,7 +2,7 @@
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-<!-- - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack] -->
+<!-- - 🔭 NI'm currently working with [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack] -->
 
 - 🌱 I'm currently perfecting myself in full stack web development, Git and C.
 
