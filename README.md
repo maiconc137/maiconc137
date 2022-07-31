@@ -1,4 +1,4 @@
-## Hello, I'm Maicon Costa,
+## Hi there, I'm Maicon Costa,
 
 <div align="center">
   <a href="https://github.com/maiconc137">
