@@ -2,6 +2,25 @@
   
 <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
+> - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack](https://joseassis.com.br/)
+
+- 🌱 Atualmente estou me aperfeiçoando em **Java, Linux e Arduino**
+
+- 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica)
+
+- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVER-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/professorjosedeassis](https://github.com/professorjosedeassis)
+
+- 📝 Escrevo regularmente no site: [https://joseassis.com.br/](https://joseassis.com.br/)
+
+- 💬 Pergunte-me sobre **Java, Linux e Arduino**
+
+- 📫 Contato: **josedeassisfilho@gmail.com**
+
+- 📄 Sobre mim: [Professor José de Assis](https://www.linkedin.com/in/professorjosedeassis)
+
+- ⚡ Fato engraçado sobre mim: **Imito perfeitamente a buzina de um fusca**
 
 ## My social networks
 
