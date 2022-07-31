@@ -2,7 +2,7 @@
   
 <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-> - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack](https://joseassis.com.br/)
+<!-- - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack](https://joseassis.com.br/)
 
 - 🌱 Atualmente estou me aperfeiçoando em **Java, Linux e Arduino**
 
@@ -21,7 +21,7 @@
 - 📄 Sobre mim: [Professor José de Assis](https://www.linkedin.com/in/professorjosedeassis)
 
 - ⚡ Fato engraçado sobre mim: **Imito perfeitamente a buzina de um fusca**
-
+-->
 ## My social networks
 
   <div>
