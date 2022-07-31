@@ -1,6 +1,6 @@
 # Hi there, I'm Maicon Costa ✌
   
-<img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
+  <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
 <!-- - 🔭 No momento estou trabalhando com [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack] -->
 
@@ -27,6 +27,7 @@
    <img align="center" alt="maicon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="maicon-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="maicon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 
 ## My GitHub stats:
 
@@ -34,4 +35,4 @@
   <a href="https://github.com/maiconc137">
   <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&langs_count=7&theme=dark"/>
- </div><br>
+ </div>
