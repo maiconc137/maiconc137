@@ -4,7 +4,7 @@
 
 <!-- - 🔭 NI'm currently working with [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack] -->
 
-- 🌱 I'm currently perfecting myself in full stack web development, Git and C.
+- 🌱 I’m currently learning full stack web development and C.
 
 - 📝 I regularly post on:: [https://www.instagram.com/oparafusoquefaltava/](https://www.instagram.com/oparafusoquefaltava/)
 
