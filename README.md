@@ -33,8 +33,8 @@
 
  <div>
   <a href="https://github.com/maiconc137">
-   <img witdh="42%" height="170em" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img witdh="50%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&langs_count=7&theme=dark"/>
+   <img witdh="42%" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img witdh="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&langs_count=7&theme=dark"/>
  </div>
  
 ![Snake animation](https://github.com/maiconc137/maiconc137/blob/output/github-contribution-grid-snake.svg)
