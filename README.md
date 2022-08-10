@@ -31,10 +31,7 @@
 
 ## My GitHub stats:
 
- <div align="center">
-  <a href="https://github.com/maiconc137/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" /></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&langs_count=7&theme=dark"/>
-</div>
+| <a href="https://github.com/maiconc137/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/maiconc137/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&theme=dark" /></a> |
+| ------------- | ------------- |
  
 ![Snake animation](https://github.com/maiconc137/maiconc137/blob/output/github-contribution-grid-snake.svg)
