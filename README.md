@@ -2,8 +2,6 @@
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-<!-- - 🔭 NI'm currently working with [Linguagem C, JavaSE, JavaEE, Linux e desenvolvimento WEB Full Stack] -->
-
 - 🌱 I’m currently learning full stack web development and C.
 
 - 📝 I regularly post on:: [https://www.instagram.com/oparafusoquefaltava/](https://www.instagram.com/oparafusoquefaltava/)
@@ -18,23 +16,6 @@
    <a href="https://www.linkedin.com/in/maiconc137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="professorjosedeassis" height="30" width="40" /></a></br></br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconc137&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
  </div>
-
-
-
-
-<!--
-## Languages and tools of my daily life:
-
-  <div style="display: inline_block"><br>
-   <img align="center" alt="maicon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="maicon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="maicon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="maicon-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="maicon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div><br><br>
--->
-
-
 
 <h2>Skills</h2>
 
