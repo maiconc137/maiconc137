@@ -27,11 +27,22 @@
    <img align="center" alt="maicon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="maicon-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="maicon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+  </div><br><br>
 
-## My GitHub stats:
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
-| <a href="https://github.com/maiconc137/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/maiconc137/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&theme=dark" /></a> |
-| ------------- | ------------- |
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+ <div align="center">
+  <a href="https://github.com/maiconc137/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&include_all_commits=true&theme=dark"     alt="Anurag's github stats" /></a>
+  <a href="https://github.com/maiconc137/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&theme=dark" /></a>
+
+ </div>
+ 
+ 
+ </details>
  
 ![Snake animation](https://github.com/maiconc137/maiconc137/blob/output/github-contribution-grid-snake.svg)
