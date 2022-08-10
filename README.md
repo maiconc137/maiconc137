@@ -39,10 +39,11 @@
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
  <div align="center">
-  <a href="https://github.com/maiconc137/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&include_all_commits=true&theme=dark"     alt="Anurag's github stats" /></a>
-  <a href="https://github.com/maiconc137/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&theme=dark" /></a>
+ 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&theme=highcontrast" />
+  
+   
 
  </div>
  
