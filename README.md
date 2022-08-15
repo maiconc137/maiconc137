@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning full stack web development and C.
 
-- 📝 I regularly post on:: [https://www.instagram.com/oparafusoquefaltava/](https://www.instagram.com/oparafusoquefaltava/)
+- 📝 I regularly post on:: [O parafuso que faltava](https://www.instagram.com/oparafusoquefaltava/)
 
 - ⚡ My hobby is studying mathematics, physics, music and literature.
 
