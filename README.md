@@ -2,7 +2,7 @@
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-- 🌱 I’m currently learning full stack web development and C.
+- 🌱 I’m currently learning full stack web development.
 
 - 📝 I regularly post on:: [O parafuso que faltava](https://www.instagram.com/oparafusoquefaltava/)
 
