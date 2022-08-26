@@ -22,13 +22,12 @@
 <p>
   <a href="https://skillicons.dev">
     <!-- <img src="https://skillicons.dev/icons?i=html,css,js,git,bash" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
     <!-- <img src="https://skillicons.dev/icons?i=python,mysql,c,java" /> -->
-    <img src="https://skillicons.dev/icons?i=python,c" />
   </a>
 </p>
 
