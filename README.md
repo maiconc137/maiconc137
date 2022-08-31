@@ -14,7 +14,7 @@
    <a href="https://instagram.com/maiconc137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof.joseassis" height="30" width="40" /></a>
    <a href="https://twitter.com/maicon_c137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseassis" height="30" width="40" /></a>
    <a href="https://www.linkedin.com/in/maiconc137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="professorjosedeassis" height="30" width="40" /></a></br></br>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconc137&label=Profile%20views&color=0e75b6&style=flat" alt="professorjosedeassis" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconc137&label=Profile%20views&color=0e75b6&style=flat" alt="maiconc137" /> </p>
  </div>
 
 <h2>Skills</h2>
