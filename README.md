@@ -1,8 +1,12 @@
 # Hi there, I'm Maicon Costa ✌
+
+```
+is Cold ? get Coffee : get get Milk shake
+```
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I'm currently learning web development.
 - 📝 I regularly post on:: [O parafuso que faltava](https://www.instagram.com/oparafusoquefaltava/)
 - ⚡ My hobby is studying mathematics, music, physics and literature.
 
