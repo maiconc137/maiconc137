@@ -1,7 +1,7 @@
 # Hi there, I'm Maicon Costa ✌
 
 ```
-is Cold ? get Coffee : get get Milk shake
+is Cold ? get Coffee : get Milk shake;
 ```
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
