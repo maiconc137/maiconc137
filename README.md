@@ -21,7 +21,7 @@ is Cold ? get Coffee : get Milk shake;
 
   <a href="https://skillicons.dev">
     <!-- <img src="https://skillicons.dev/icons?i=html,css,js,git,bash" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
   </a>
   <a href="https://skillicons.dev">
     <!-- <img src="https://skillicons.dev/icons?i=python,mysql,c,java" /> -->
