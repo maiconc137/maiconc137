@@ -6,7 +6,7 @@ is Cold ? get Coffee : get Milk shake;
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-- 🌱 I'm currently learning Database Development.
+- 🌱 I am currently learning analytics and data science.
 - 📝 I regularly post on:: [O parafuso que faltava](https://www.instagram.com/oparafusoquefaltava/)
 - ⚡ My hobby is studying mathematics, music, physics and literature.
 
