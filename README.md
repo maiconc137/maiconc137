@@ -19,13 +19,11 @@ is Cold ? get Coffee : get Milk shake;
 
 <h2>Skills</h2>
 
+<p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=html,css,js,git,bash" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,coffeescript" />
   </a>
-  <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=python,mysql,c,java" /> -->
-  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
