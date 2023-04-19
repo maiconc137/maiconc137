@@ -1,7 +1,7 @@
 # Hi there, I'm Maicon Costa ✌ 
 
 ```
-is Cold ? get Coffee : get Milk shake;
+beverage = "Coffee" if temperature <= 18 else "Milk shake"
 ```
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
