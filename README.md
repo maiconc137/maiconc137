@@ -1,7 +1,7 @@
 # Hi there, I'm Maicon Costa ✌ 
 
 ```
-beverage = "Coffee" if temperature <= 18 else "Milk shake"
+beverage = "Coffee" if temperature <= 24 else "Milk shake"
 ```
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
@@ -21,7 +21,7 @@ beverage = "Coffee" if temperature <= 18 else "Milk shake"
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,git,coffeescript" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,py,html,css,js" />
   </a>
 </p>
 
