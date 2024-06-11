@@ -6,7 +6,7 @@ beverage = "Coffee" if temperature <= 18 else "Milk shake"
   
   <img align="right" alt="maicon-pic" height="150" style="border-radius:50px;" src="giff.gif">
 
-- 🌱 I am currently learning analytics and data science.
+- 🌱 Systems programmer and data science student.
 - 📝 I regularly post on:: [O parafuso que faltava](https://www.instagram.com/oparafusoquefaltava/)
 - ⚡ My hobby is studying mathematics, music, physics and literature.
 
