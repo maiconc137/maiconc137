@@ -17,29 +17,15 @@ beverage = "Coffee" if temperature <= 24 else "Milk shake"
    <a href="https://www.linkedin.com/in/maiconc137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="professorjosedeassis" height="30" width="40" /></a></br></br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconc137&label=Profile%20views&color=0e75b6&style=flat" alt="Maicon Costa" /> </p>
 
-<h2>Skills</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,py,html,css,js" />
-  </a>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-
-<details close="true">
-
-<summary><b>:gear: &nbsp;Git statistics</b></summary>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
   <a href="https://github.com/maiconc137">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconc137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconc137&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  
- </details>
+
  
 ![Snake animation](https://github.com/maiconc137/maiconc137/blob/output/github-contribution-grid-snake.svg)
