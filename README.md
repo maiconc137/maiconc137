@@ -9,6 +9,7 @@ beverage = "Coffee" if temperature <= 24 else "Milk shake"
 - 🌱 Systems programmer and data science student.
 - ⚡ My hobby is studying mathematics, music, physics and literature.
 
+</br></br>
 ## My social networks
 
    <a href="https://instagram.com/maiconc137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof.joseassis" height="30" width="40" /></a>
