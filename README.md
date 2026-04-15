@@ -73,18 +73,9 @@ I'm a **Data Engineer** and **Data Science student**, focused on building reliab
 * 🧠 Side projects mixing data, philosophy and self-knowledge
 
 ---
-
 ## 🌐 Connect with me
 
-<a href="https://www.instagram.com/maicon_c137/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/maicon_c137" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/maiconc137" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+<div align="center"> <a href="https://www.instagram.com/maicon_c137/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/maicon_c137" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/maiconc137" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a> </div>
 
 ---
 
