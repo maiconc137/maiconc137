@@ -21,9 +21,9 @@ I'm a **Data Engineer** focused on building resilient data pipelines, scalable c
 
 | Category | Technologies & Tools |
 | --- | --- |
-| **Data & Processing** | Python, SQL, Apache Airflow (Composer), Spark (Dataproc) |
-| **GCP** | BigQuery, Cloud Composer, Cloud Run, Cloud Functions, Cloud Storage |
-| **AWS** | S3, Lambda, Glue, Athena, DynamoDB, IAM |
+| **Data & Processing** | Python, SQL, Apache Airflow, Spark |
+| **GCP** | BigQuery, Cloud Composer, Cloud Run, Cloud Functions, Cloud Storage, Datapeoc, Pubsub, GCS |
+| **AWS** | S3, Lambda, Glue, Athena, DynamoDB, IAM, Step Function |
 | **Oracle Ecosystem** | Oracle Database, PL/SQL, Oracle APEX |
 | **DevOps & Infra** | Terraform (IaC), Git, GitHub, REST APIs |
 
